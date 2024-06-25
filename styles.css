@@ -36,6 +36,11 @@ header.sticky {
     background: rgba(0, 0, 139, 0.9); /* DarkBlue with 90% opacity */
 }
 
+header .logo img {
+    height: 50px; /* Adjust as needed */
+    width: auto;
+}
+
 header .logo {
     font-size: 24px;
     font-weight: bold;
